@@ -1,5 +1,5 @@
 from flask import Flask, jsonify
-from serializer import Serializer
+from classes.serializer import Serializer
 
 app = Flask(__name__)
 
@@ -15,8 +15,13 @@ def get_jojo(jojoname):
     else:
         return result.toJson()
 
-#@app.route('/stands/<standname>', methods=['GET'])
-#def get_stand(standname)
+@app.route('/stands/<standname>', methods=['GET'])
+def get_stand(standname):
+    result = serializer.search_stand(standname)
+    if result == None:
+        return jsonify({'error': 'No stand was found'})
+    else:
+        return result.toJson()
 
 
 if __name__ == '__main__':

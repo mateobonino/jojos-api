@@ -1,0 +1,44 @@
+{
+    "Star Platinum": {
+        "user": "Jotaro Kujo",
+        "attack": 4,
+        "defense": 5,
+        "type": "Close-Range",
+        "speed": 5
+    },
+    "Crazy Diamond": {
+        "user": "Josuke Higashikata",
+        "attack": 3,
+        "defense": 4,
+        "type": "Close-Range",
+        "speed": 2
+    },
+    "Gold Experience": {
+        "user": "Giorno Giovanna",
+        "attack": 4,
+        "defense": 3,
+        "type": "Close-Range",
+        "speed": 3
+    },
+    "Stone Free": {
+        "user": "Jolyne Cujoh",
+        "attack": 2,
+        "defense": 3,
+        "type": "Close-Range",
+        "speed": 4
+    },
+    "Hierophant Green": {
+        "user": "Noriaki Kakyoin",
+        "attack": 3,
+        "defense": 2,
+        "type": "Long-Range",
+        "speed": 3
+    },
+    "Sticky Fingers": {
+        "user": "Bruno Bucciarati",
+        "attack": 3,
+        "defense": 4,
+        "type": "Close-Range",
+        "speed": 4
+    }
+}
