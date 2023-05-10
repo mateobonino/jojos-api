@@ -1,0 +1,103 @@
+{
+    "Jonathan Joestar": {
+        "season": "Phantom Blood",
+        "abilities": ["Hamon", "Sunlight Yellow Overdrive"],
+        "age": 20,
+        "birthday": "April 6",
+        "height": "195 cm",
+        "weight": "105kg",
+        "nationality": "British"
+    },
+    "Dio Brando": {
+        "season": "Phantom Blood",
+        "abilities": ["Stand: The World", "Vampire Powers", "Time Stop"],
+        "age": 20,
+        "birthday": "April 10",
+        "height": "185 cm",
+        "weight": "105kg",
+        "nationality": "British"
+    },
+    "Joseph Joestar": {
+        "nationality": "British",
+        "Age": 69,
+        "birthday": "September 26",
+        "Height": "195 cm",
+        "weight": "96 kg",
+        "abilities": ["Stand: Hermit Purple", "Hamon", "Super Breath", "Superhuman Empathy"],
+        "season": "Battle Tendency"
+        
+    },
+    "Giorno Giovanna":
+    {
+        "nationality": "Italian",
+        "age": 15,
+        "birthday": "April 16",
+        "height": "175 cm",
+        "weight": "66 kg",
+        "abilities": ["Stand: Gold Experience", "Object-to-Life Transformation", "Damage Recovery"],
+        "season": "Golden Wind"
+    },
+    "Josuke Higashikata": {
+        "nationality": "Japanese",
+        "age": 16,
+        "birthday": "August 16",
+        "height": "165 cm",
+        "weight": "65 kg",
+        "abilities": ["Stand: Crazy Diamond", "Restoration", "Punching Power"],
+        "season": "Diamond is Unbreakable"
+    },
+    "Jotaro Kujo": {
+        "nationality": "Japanese",
+        "age": 17,
+        "birthday": "April 20",
+        "height": "195 cm",
+        "weight": "82 kg",
+        "abilities": ["Stand: Star Platinum", "Ora Ora Ora", "Superhuman Precision"],
+        "season": "Stardust Crusaders"
+    },
+    "Jolyne Cujoh": {
+        "nationality": "American",
+        "age": 19,
+        "birthday": "December 23",
+        "height": "175 cm",
+        "weight": "55 kg",
+        "abilities": ["Stand: Stone Free"],
+        "season": "Stone Ocean"
+    },
+    "Noriaki Kakyoin": {
+        "nationality": "Japanese",
+        "age": 17,
+        "birthday": "May 27",
+        "height": "185 cm",
+        "weight": "65 kg",
+        "abilities": ["Stand: Hierophant Green", "Emerald Splash", "Spirit Photography"],
+        "season": "Stardust Crusaders"
+    },
+    "Bruno Bucciarati": {
+        "nationality": "Italian",
+        "age": 20,
+        "birthday": "March 15",
+        "height": "187 cm",
+        "weight": "72 kg",
+        "abilities": ["Stand: Sticky Fingers", "Zipper Manipulation", "Bucciarati's Sticky Secret"],
+        "season": "Golden Wind"
+    },
+    "Gyro Zeppeli": {
+        "nationality": "Italian",
+        "age": 24,
+        "birthday": "September 5",
+        "height": "196 cm",
+        "weight": "90 kg",
+        "abilities": ["Spin", "Steel Balls", "Ball Breaker"],
+        "season": "Steel Ball Run"
+    },
+    "Diego Brando": {
+        "nationality": "British",
+        "age": 20,
+        "birthday": "Unknown",
+        "height": "196 cm",
+        "weight": "85 kg",
+        "abilities": ["Stand: Scary Monsters", "Dinosaur Transformation", "Superhuman Senses"],
+        "season": "Steel Ball Run"
+    }
+}
