@@ -1,0 +1,62 @@
+{
+    "Star Platinum": {
+        "user": "Jotaro Kujo",
+        "type": "Close-Range",
+        "power": "A",
+        "potential": "B",
+        "durability": "A",
+        "range": "C",
+        "speed": "A",
+        "precision": "A"
+    },
+    "Crazy Diamond": {
+        "user": "Josuke Higashikata",
+        "type": "Close-Range",
+        "power": "B",
+        "potential": "C",
+        "durability": "A",
+        "range": "B",
+        "speed": "C",
+        "precision": "B"
+    },
+    "Gold Experience": {
+        "user": "Giorno Giovanna",
+        "type": "Close-Range",
+        "power": "B",
+        "potential": "A",
+        "durability": "B",
+        "range": "C",
+        "speed": "A",
+        "precision": "C"
+    },
+    "Stone Free": {
+        "user": "Jolyne Cujoh",
+        "type": "Close-Range",
+        "power": "C",
+        "potential": "B",
+        "durability": "B",
+        "range": "D",
+        "speed": "B",
+        "precision": "A"
+    },
+    "Hierophant Green": {
+        "user": "Noriaki Kakyoin",
+        "type": "Long-Range",
+        "power": "C",
+        "potential": "C",
+        "durability": "B",
+        "range": "A",
+        "speed": "C",
+        "precision": "B"
+    },
+    "Sticky Fingers": {
+        "user": "Bruno Bucciarati",
+        "type": "Close-Range",
+        "power": "B",
+        "potential": "B",
+        "durability": "B",
+        "range": "C",
+        "speed": "A",
+        "precision": "A"
+    }
+}

@@ -12,16 +12,21 @@ def get_jojo(jojoname):
     result = serializer.search_character(jojoname)
     if result == None:
         return jsonify({'error': 'No character was found'})
-    else:
-        return result.toJson()
+    return result.toJson()
 
 @app.route('/stands/<standname>', methods=['GET'])
 def get_stand(standname):
     result = serializer.search_stand(standname)
     if result == None:
         return jsonify({'error': 'No stand was found'})
-    else:
-        return result.toJson()
+    return result.toJson()
+
+@app.route('/season/<seasoname>', methods=['GET'])
+def get_season(seasoname):
+    result = serializer.search_season(seasoname)
+    if result == None:
+        return jsonify({'error': 'No season was found!'})
+    return jsonify(result)
 
 
 if __name__ == '__main__':

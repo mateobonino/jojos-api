@@ -5,6 +5,7 @@ from classes.stand import Stand
 class Serializer():
     _stand_data = ""
     _jojo_data = ""
+
     def load_data(self):
         raw_data = open('characters.json')
         raw_stand_data = open('stands.json')
@@ -25,3 +26,11 @@ class Serializer():
         myStand = Stand(name, **stand_args)
         return myStand
 
+    def search_season(self, name):
+        season_characters = []
+        for key in self._jojo_data.keys():
+            if name in list(self._jojo_data[key].values()):
+                season_characters.append(self._jojo_data[key])
+        if len(season_characters) == 0:
+            return None
+        return season_characters
